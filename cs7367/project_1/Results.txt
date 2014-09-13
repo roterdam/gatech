@@ -1,36 +1,36 @@
 2x1 Basic Problems
 -----------
-2x1 Basic Problem 01: 7 Incorrect
-2x1 Basic Problem 02: 7 Incorrect
-2x1 Basic Problem 03: 7 Incorrect
-2x1 Basic Problem 04: 7 Incorrect
-2x1 Basic Problem 05: 7 Incorrect
-2x1 Basic Problem 06: 7 Incorrect
-2x1 Basic Problem 07: 7 Incorrect
-2x1 Basic Problem 08: 7 Incorrect
-2x1 Basic Problem 09: 7 Incorrect
-2x1 Basic Problem 10: 7 Incorrect
+2x1 Basic Problem 01: 5 Correct
+2x1 Basic Problem 02: 6 Correct
+2x1 Basic Problem 03: 4 Correct
+2x1 Basic Problem 04: 3 Correct
+2x1 Basic Problem 05: 2 Correct
+2x1 Basic Problem 06: 5 Correct
+2x1 Basic Problem 07: 2 Correct
+2x1 Basic Problem 08: 1 Correct
+2x1 Basic Problem 09: 1 Correct
+2x1 Basic Problem 10: 4 Correct
 2x1 Basic Problem 11: 7 Incorrect
-2x1 Basic Problem 12: 7 Incorrect
+2x1 Basic Problem 12: 6 Correct
 2x1 Basic Problem 13: 7 Incorrect
-2x1 Basic Problem 14: 7 Incorrect
-2x1 Basic Problem 15: 7 Incorrect
+2x1 Basic Problem 14: 3 Correct
+2x1 Basic Problem 15: 1 Incorrect
 2x1 Basic Problem 16: 7 Incorrect
-2x1 Basic Problem 17: 7 Incorrect
-2x1 Basic Problem 18: 7 Incorrect
+2x1 Basic Problem 17: 1 Correct
+2x1 Basic Problem 18: 2 Correct
 2x1 Basic Problem 19: 7 Incorrect
-2x1 Basic Problem 20: 7 Incorrect
+2x1 Basic Problem 20: 3 Incorrect
 
 2x1 Challenge Problems
 -----------
 2x1 Challenge Problem 01: 7 Incorrect
-2x1 Challenge Problem 02: 7 Incorrect
-2x1 Challenge Problem 03: 7 Incorrect
-2x1 Challenge Problem 04: 7 Incorrect
-2x1 Challenge Problem 05: 7 Incorrect
+2x1 Challenge Problem 02: 1 Incorrect
+2x1 Challenge Problem 03: 1 Incorrect
+2x1 Challenge Problem 04: 1 Incorrect
+2x1 Challenge Problem 05: 4 Correct
 
 2x1 Classmates Problems
 -----------
 2x1 Classmates' Problem 01: 7 Incorrect
-2x1 Classmates' Problem 02: 7 Incorrect
+2x1 Classmates' Problem 02: 5 Correct
 

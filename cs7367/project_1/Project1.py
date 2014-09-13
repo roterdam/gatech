@@ -1,4 +1,3 @@
-#!/usr/bin/python
 # DO NOT MODIFY THIS FILE.
 #
 # When you submit your project, an alternate version of this file will be used

@@ -7,6 +7,7 @@
 # def Solve(self,problem)
 #
 # These methods will be necessary for the project's main method to run.
+from GenerateTest import *
 class Agent:
     # The default constructor for your Agent. Make sure to execute any
     # processing necessary before your Agent starts solving problems here.
@@ -40,5 +41,5 @@ class Agent:
     # @param problem the RavensProblem your agent should solve
     # @return your Agent's answer to this problem
     def Solve(self,problem):
-        print problem.getFigures()
-        return "7"
+        # Let's pass this problem off to our solvers.
+        return GenerateTest().find_solution(problem)
